@@ -1,0 +1,7 @@
+# ASL Patient Communicator - Python dependencies
+# Recommended Python: 3.10 - 3.12 (use a virtual environment)
+tensorflow>=2.16       
+mediapipe>=0.10.14      
+numpy
+scikit-learn            
+kagglehub              
